@@ -49,3 +49,12 @@ IMPORTANTE
 - El formulario no necesita servidor: abre WhatsApp con el mensaje preparado.
 - Para la versión final se recomienda reemplazar parte del material gráfico por fotos originales de inspecciones, obras y proyectos de SARCONST.
 - Cuando se cree la cuenta corporativa sarconstingenieros, estos mismos archivos pueden migrarse al repositorio sarconstingenieros.github.io.
+
+ACTUALIZACIÓN V2 - PORTADA
+-------------------------
+El slider principal usa archivos con nombres nuevos para evitar que GitHub Pages o el navegador muestren imágenes antiguas desde caché:
+- assets/img/hero-evaluaciones-v2.jpg
+- assets/img/hero-ampliaciones-v2.jpg
+- assets/img/hero-diseno-v2.jpg
+
+Las demás imágenes y configuraciones de la web se mantienen sin cambios.
